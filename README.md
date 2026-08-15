@@ -53,6 +53,7 @@ The main objectives of this project are:
 | **DAX** | Measures and analytical calculations |
 | **GitHub** | Project documentation and portfolio |
 
+<img src="./Images/11_PowerBI_Executive_Dashboard.png" alt="Sales Executive Dashboard" width="95%">
 ---
 
 # 📊 Dataset
